@@ -1,6 +1,5 @@
-import OS 
+import OS
 
-print(os.listdir())
-print(os.git_blocking())
+print (os.listdir())
 
-print(os.chdir("/"))
+print(os.getcwd())
